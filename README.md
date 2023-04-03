@@ -1,5 +1,7 @@
 # reproduction
 
+![image](https://user-images.githubusercontent.com/47204120/229571739-52bdae0a-b509-4069-8a0f-bb1b413649e7.png)
+
 1. with pnpm
 
 - cd into `with-pnpm`
